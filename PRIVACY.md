@@ -1,0 +1,7 @@
+# PRIVACY POLICY
+
+Tracky is committed to protecting your privacy and ensuring that your personal information is secure. This Privacy Policy outlines how we collect, use, and protect your information when using our open-source camera tracking tool. Since Tracky never sends any data to any server, your data remains on your device and is not shared with any third party.
+
+Tracky is a two-part kit designed for AR prototypers, VFX artists, and developers. The iOS app scans the room and records the device's orientation, video from the back camera, audio from the microphone, camera's focal length, sensor height, depth map captured via LiDAR, and a foreground segmentation mask. All of this data is stored locally on your device in a .bren file, which is a JSON file format. The Blender plugin imports these recordings and recreates the device's experience within Blender, allowing you to work on your projects without sharing any data with external servers or third parties.
+
+We encourage you to review this Privacy Policy periodically, as we may update it to reflect changes in our practices or for other operational, legal, or regulatory reasons. By using Tracky, you agree to our Privacy Policy and consent to the collection and use of your information as described in this document. If you have any questions or concerns about our Privacy Policy, please feel free to contact us at eric.florenzano@shopify.com
